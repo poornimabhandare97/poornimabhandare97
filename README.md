@@ -46,9 +46,9 @@
 
 <h2>📫 Connect with Me</h2>
 <ul>
-    <li><strong>Portfolio</strong>: <a href="https://poornimabhand.site/"></a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/poornima-bhandare-6828a61b8/">Poornima Bhandare</a></li>
-    <li><strong>Discord</strong>: <a href="https://discordapp.com/users/Phatpigh9977%22%20target=%22_blank"</a></li>
+    <li><strong>Portfolio</strong>: <a href="https://poornimabhand.site/">Portfolio</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/poornima-bhandare-6828a61b8/">LinkedIn</a></li>
+    <li><strong>Discord</strong>: <a href="https://discordapp.com/users/Phatpigh9977%22%20target=%22_blank">Discord</a></li>
 </ul>
 
 <p>Let’s collaborate and secure the world, one vulnerability at a time! 🌍</p>
