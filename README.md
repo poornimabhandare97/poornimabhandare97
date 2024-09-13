@@ -1,34 +1,54 @@
-<h1>Hi, I'm Poornima ! <br/><a href="https://github.com/poornimabhandare97">Programmer</a>, <a href="https://www.linkedin.com/in/poornima-bhandare-6828a61b8/">Cybersecurity Professional</a></h1>
+<h1>👋 Hi, I'm Poornima Bhandare!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects: Simple >> Hard </h2>
+<h3>🌐 Cybersecurity Analyst | SOC Analyst | Engineer</h3>
+<p>
+    I’m passionate about safeguarding systems and data through advanced security practices. With a strong background in <strong>Security Operations</strong>, I specialize in <strong>threat detection</strong>, <strong>vulnerability assessment</strong>, and <strong>incident response</strong>.
+</p>
 
-- <b>Generate Random Legit Passwords </b>
-  - [Code in Python](https://github.com/poornimabhandare97/generate-password)
-- <b>Log Analysis and Log Parsing </b>
-  - [Code in Python](https://github.com/poornimabhandare97/log_parse)
-- <b>Network Traffic Analyzer </b>
-  - [Code in Python](https://github.com/poornimabhandare97/log_parse)
+<hr>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🛡️ Areas of Expertise</h2>
+<ul>
+    <li><strong>Security Operations Center (SOC)</strong>: Monitoring, Threat Hunting, Incident Response</li>
+    <li><strong>Vulnerability Assessments & Penetration Testing (VAPT)</strong></li>
+    <li><strong>SIEM (Security Information and Event Management)</strong>: Log Analysis, Alert Management</li>
+    <li><strong>Web Application Security</strong>: OWASP, Secure API Development, and Remediation</li>
+    <li><strong>Malware Analysis</strong>: Reverse Engineering, Exploit Detection</li>
+    <li><strong>Data Loss Prevention (DLP)</strong>: Mitigating Insider Threats</li>
+    <li><strong>Compliance</strong>: PCI DSS, GDPR, ISO 27001</li>
+</ul>
 
-[<img align="left" alt="poornimabhandare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="poornimabhandare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<hr>
 
+<h2>🚀 Projects</h2>
+<ul>
+    <li><strong>G2A Exploit Analysis</strong>: Studied vulnerabilities, mitigated attacks, and proposed security strategies.</li>
+    <li><strong>Data Hiding with Steganography</strong>: Developed a tool for securely hiding data within files.</li>
+    <li><strong>RFID Blocking System</strong>: Reduced False Acceptance and Rejection Rates in RFID systems.</li>
+    <li><strong>Student Management System</strong>: Created a system to streamline administrative tasks for teachers.</li>
+    <li><strong>Flappy Bird Clone</strong>: Designed a fun and challenging version of the popular mobile game.</li>
+    <li><strong>Vulnerability Assessment & Penetration Testing (VAPT)</strong>: Assessed network vulnerabilities and automated patch management.</li>
+</ul>
 
-[instagram]: https://www.instagram.com/poornimabhandare97/
-[linkedin]: https://www.linkedin.com/in/poornima-bhandare-6828a61b8/
+<p>Check out my repositories for more insights into my <strong>cybersecurity projects</strong>, including <strong>automated patch management</strong>, <strong>SIEM implementations</strong>, and <strong>malware analysis</strong>.</p>
 
-<!--
-**poornimabhandare1/poornimabhandare1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2>📄 Certifications & Skills</h2>
+<ul>
+    <li><strong>Certified Ethical Hacker (CEH)</strong></li>
+    <li><strong>CompTIA Security+</strong></li>
+    <li><strong>Python, Bash Scripting, SQL</strong></li>
+    <li><strong>Linux System Administration</strong></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>📫 Connect with Me</h2>
+<ul>
+    <li><strong>Portfolio</strong>: <a href="#">YourWebsite.com</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com">Poornima Bhandare</a></li>
+    <li><strong>Twitter</strong>: <a href="https://twitter.com">YourTwitterHandle</a></li>
+</ul>
+
+<p>Let’s collaborate and secure the world, one vulnerability at a time! 🌍</p>
